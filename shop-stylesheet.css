@@ -25,7 +25,7 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    color: #060606;
+    color: #000000;
 }
 
 .hero-content h1 {
